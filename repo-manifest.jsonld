@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/vault-k8s-operator/commit/1e34b07b5420792768f498e79ea54d566ff28df2",
       "git:hexsha": "1e34b07b5420792768f498e79ea54d566ff28df2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "machine-rev810"
     },
     {
