@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "vault-k8s-operator",
+  "versions": [
+    {
+      "commit": "1e34b07b5420792768f498e79ea54d566ff28df2",
+      "tag": "k8s-rev616",
+      "parsed_at": "2026-11-08T12:33:33.118907+00:00"
+    }
+  ]
+}
